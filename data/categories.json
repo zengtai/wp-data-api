@@ -1,0 +1,1035 @@
+{
+  "total": 148,
+  "data": [
+    {
+      "id": 55,
+      "count": 66,
+      "name": "Adobo Recipes",
+      "slug": "adobo-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6722,
+      "count": 16,
+      "name": "Ampalaya Recipes",
+      "slug": "ampalaya-recipes",
+      "parent": 24
+    },
+    {
+      "id": 56,
+      "count": 47,
+      "name": "Appetizer and Pulutan Recipes",
+      "slug": "tagay-muna-appetizers",
+      "parent": 24
+    },
+    {
+      "id": 57,
+      "count": 55,
+      "name": "Appetizer Recipes",
+      "slug": "appetizer-recipes",
+      "parent": 24
+    },
+    {
+      "id": 58,
+      "count": 17,
+      "name": "Banana Recipes",
+      "slug": "banana-recipes",
+      "parent": 24
+    },
+    {
+      "id": 59,
+      "count": 7,
+      "name": "BBQ Chicken Recipes",
+      "slug": "bbq-chicken-recipes",
+      "parent": 24
+    },
+    {
+      "id": 60,
+      "count": 200,
+      "name": "Beef Recipes",
+      "slug": "beef-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6708,
+      "count": 8,
+      "name": "Beef Shank Recipes",
+      "slug": "beef-shank-recipes",
+      "parent": 24
+    },
+    {
+      "id": 61,
+      "count": 6,
+      "name": "Beverage Recipes",
+      "slug": "beverage-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6735,
+      "count": 7,
+      "name": "Bicol Express Recipes",
+      "slug": "bicol-express-recipes",
+      "parent": 24
+    },
+    {
+      "id": 62,
+      "count": 12,
+      "name": "Bread Recipes",
+      "slug": "bread-recipes",
+      "parent": 24
+    },
+    {
+      "id": 63,
+      "count": 85,
+      "name": "Breakfast Recipes",
+      "slug": "breakfast-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6415,
+      "count": 15,
+      "name": "Broccoli Recipes",
+      "slug": "broccoli-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6670,
+      "count": 10,
+      "name": "Burger Recipes",
+      "slug": "burger-recipes",
+      "parent": 24
+    },
+    {
+      "id": 64,
+      "count": 17,
+      "name": "Cake Recipes",
+      "slug": "cake-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6568,
+      "count": 1,
+      "name": "Cassava Recipes",
+      "slug": "cassava-recipes",
+      "parent": 24
+    },
+    {
+      "id": 65,
+      "count": 17,
+      "name": "Chef",
+      "slug": "chef-culinary-arts",
+      "parent": 2
+    },
+    {
+      "id": 6713,
+      "count": 19,
+      "name": "Chicken Adobo Recipes",
+      "slug": "chicken-adobo-recipes",
+      "parent": 55
+    },
+    {
+      "id": 66,
+      "count": 269,
+      "name": "Chicken Recipes",
+      "slug": "chicken-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6421,
+      "count": 38,
+      "name": "Chicken Soup Recipes",
+      "slug": "chicken-soup-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6368,
+      "count": 0,
+      "name": "Chinese Recipes",
+      "slug": "chinese-recipes",
+      "parent": 24
+    },
+    {
+      "id": 67,
+      "count": 15,
+      "name": "Chocolate Recipes",
+      "slug": "chocolate-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6633,
+      "count": 4,
+      "name": "Chop Suey Recipes",
+      "slug": "chop-suey-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6641,
+      "count": 13,
+      "name": "Christmas Recipes",
+      "slug": "christmas-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6692,
+      "count": 2,
+      "name": "Congee Recipes",
+      "slug": "congee-recipes",
+      "parent": 24
+    },
+    {
+      "id": 68,
+      "count": 7,
+      "name": "Cookie Recipes",
+      "slug": "cookie-recipes",
+      "parent": 24
+    },
+    {
+      "id": 69,
+      "count": 9,
+      "name": "Cooking Classes",
+      "slug": "cooking-classes-culinary-arts",
+      "parent": 2
+    },
+    {
+      "id": 70,
+      "count": 18,
+      "name": "Crab Recipes",
+      "slug": "crab-recipes",
+      "parent": 24
+    },
+    {
+      "id": 2,
+      "count": 242,
+      "name": "Culinary Arts",
+      "slug": "culinary-arts",
+      "parent": 0
+    },
+    {
+      "id": 3,
+      "count": 6,
+      "name": "Culinary Programs",
+      "slug": "culinary-programs",
+      "parent": 2
+    },
+    {
+      "id": 4,
+      "count": 68,
+      "name": "Culinary Schools",
+      "slug": "culinary-schools",
+      "parent": 2
+    },
+    {
+      "id": 71,
+      "count": 8,
+      "name": "Cupcake Recipes",
+      "slug": "cupcake-recipes-recipes",
+      "parent": 24
+    },
+    {
+      "id": 72,
+      "count": 130,
+      "name": "Dessert Recipes",
+      "slug": "dessert-and-pastry-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6362,
+      "count": 0,
+      "name": "did you know",
+      "slug": "did-you-know",
+      "parent": 0
+    },
+    {
+      "id": 6,
+      "count": 73,
+      "name": "Diet and Weight Loss",
+      "slug": "diet-and-weight-loss",
+      "parent": 0
+    },
+    {
+      "id": 73,
+      "count": 6,
+      "name": "Dimsum and Dumpling Recipes",
+      "slug": "dimsum-and-dumplings",
+      "parent": 24
+    },
+    {
+      "id": 74,
+      "count": 12,
+      "name": "Dip Recipes",
+      "slug": "dip-recipes",
+      "parent": 24
+    },
+    {
+      "id": 75,
+      "count": 4,
+      "name": "Drinks",
+      "slug": "drinks-recipes",
+      "parent": 24
+    },
+    {
+      "id": 76,
+      "count": 9,
+      "name": "Easy Casserole Recipes",
+      "slug": "easy-casserole-recipes",
+      "parent": 24
+    },
+    {
+      "id": 77,
+      "count": 35,
+      "name": "easy chicken recipes",
+      "slug": "easy-chicken-recipes",
+      "parent": 24
+    },
+    {
+      "id": 7,
+      "count": 4,
+      "name": "Easy Dinner Recipes",
+      "slug": "easy-dinner-recipes",
+      "parent": 0
+    },
+    {
+      "id": 78,
+      "count": 52,
+      "name": "Egg Recipes",
+      "slug": "eggs",
+      "parent": 24
+    },
+    { "id": 8, "count": 9, "name": "Events", "slug": "events", "parent": 0 },
+    {
+      "id": 9,
+      "count": 1,
+      "name": "Experiments",
+      "slug": "experiments",
+      "parent": 0
+    },
+    {
+      "id": 10,
+      "count": 9,
+      "name": "Featured Recipes",
+      "slug": "featured-recipes",
+      "parent": 0
+    },
+    {
+      "id": 6367,
+      "count": 14,
+      "name": "Filipino Recipes",
+      "slug": "filipino-recipes",
+      "parent": 24
+    },
+    {
+      "id": 79,
+      "count": 172,
+      "name": "Fish Recipes",
+      "slug": "fish-recipes-recipes",
+      "parent": 24
+    },
+    {
+      "id": 11,
+      "count": 201,
+      "name": "Food and Health",
+      "slug": "health-and-wellness",
+      "parent": 0
+    },
+    {
+      "id": 12,
+      "count": 22,
+      "name": "Food Ideas",
+      "slug": "food-ideas",
+      "parent": 2
+    },
+    {
+      "id": 13,
+      "count": 8,
+      "name": "Food Reviews",
+      "slug": "food-reviews",
+      "parent": 0
+    },
+    {
+      "id": 80,
+      "count": 27,
+      "name": "Fried Chicken Recipes",
+      "slug": "fried-chicken-recipes-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6285,
+      "count": 30,
+      "name": "Fried Rice Recipes",
+      "slug": "fried-rice-recipes",
+      "parent": 24
+    },
+    {
+      "id": 81,
+      "count": 65,
+      "name": "Ginataan Recipes",
+      "slug": "ginataan-recipes",
+      "parent": 24
+    },
+    {
+      "id": 82,
+      "count": 9,
+      "name": "Goat Meat and Lamb Recipes",
+      "slug": "goat-meat",
+      "parent": 24
+    },
+    {
+      "id": 14,
+      "count": 11,
+      "name": "Good Reads",
+      "slug": "good-reads",
+      "parent": 0
+    },
+    {
+      "id": 6408,
+      "count": 4,
+      "name": "Green Bean Recipes",
+      "slug": "green-bean-recipes",
+      "parent": 24
+    },
+    {
+      "id": 83,
+      "count": 42,
+      "name": "Ground Meat Recipes",
+      "slug": "ground-meat-recipes",
+      "parent": 24
+    },
+    {
+      "id": 84,
+      "count": 2,
+      "name": "Halloween Recipes",
+      "slug": "halloween-recipes",
+      "parent": 24
+    },
+    {
+      "id": 15,
+      "count": 88,
+      "name": "Health Benefits of Food",
+      "slug": "health-benefits-of-food",
+      "parent": 11
+    },
+    {
+      "id": 16,
+      "count": 1,
+      "name": "Healthy Dinner Recipes",
+      "slug": "healthy-dinner-recipes",
+      "parent": 0
+    },
+    {
+      "id": 6640,
+      "count": 3,
+      "name": "Holiday Recipes",
+      "slug": "holiday-recipes",
+      "parent": 24
+    },
+    {
+      "id": 18,
+      "count": 132,
+      "name": "How To Cook",
+      "slug": "how-to-cook",
+      "parent": 0
+    },
+    {
+      "id": 17,
+      "count": 0,
+      "name": "How to Start a Food Blog",
+      "slug": "how-to-start-a-food-blog",
+      "parent": 0
+    },
+    {
+      "id": 19,
+      "count": 0,
+      "name": "How&#039;d they do that?",
+      "slug": "howd-they-do-that",
+      "parent": 0
+    },
+    {
+      "id": 20,
+      "count": 81,
+      "name": "Ingredients",
+      "slug": "ingredients",
+      "parent": 2
+    },
+    {
+      "id": 6369,
+      "count": 0,
+      "name": "Japanese Recipes",
+      "slug": "japanese-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6417,
+      "count": 13,
+      "name": "Kaldereta Recipes",
+      "slug": "kaldereta-caldereta-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6403,
+      "count": 7,
+      "name": "Kangkong Recipes",
+      "slug": "kangkong-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6777,
+      "count": 1,
+      "name": "Ketogenic Recipes",
+      "slug": "ketogenic-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6284,
+      "count": 2,
+      "name": "Kielbasa Recipes",
+      "slug": "kielbasa-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6395,
+      "count": 11,
+      "name": "Kilawin Recipes",
+      "slug": "kilawin-recipes",
+      "parent": 24
+    },
+    {
+      "id": 21,
+      "count": 9,
+      "name": "Kitchen Tools and Equipment",
+      "slug": "kitchen-tools-and-equipment",
+      "parent": 2
+    },
+    {
+      "id": 6370,
+      "count": 0,
+      "name": "Korean Recipes",
+      "slug": "korean-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6730,
+      "count": 7,
+      "name": "Lasagna Recipes",
+      "slug": "lasagna-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6252,
+      "count": 1,
+      "name": "List Article",
+      "slug": "list-article",
+      "parent": 0
+    },
+    {
+      "id": 85,
+      "count": 4,
+      "name": "Lobster Recipes",
+      "slug": "lobster-recipes",
+      "parent": 24
+    },
+    {
+      "id": 86,
+      "count": 3,
+      "name": "Low Fat Recipes",
+      "slug": "low-fat-recipes",
+      "parent": 24
+    },
+    {
+      "id": 87,
+      "count": 424,
+      "name": "Lunch Recipes",
+      "slug": "lunch-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6759,
+      "count": 17,
+      "name": "Macaroni Salad Recipes",
+      "slug": "macaroni-salad-recipes",
+      "parent": 24
+    },
+    {
+      "id": 88,
+      "count": 308,
+      "name": "Main Dish Recipes",
+      "slug": "main-dish-recipes",
+      "parent": 24
+    },
+    {
+      "id": 89,
+      "count": 11,
+      "name": "Meatloaf Recipes",
+      "slug": "meatloaf-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6725,
+      "count": 1,
+      "name": "Meryenda Recipes",
+      "slug": "meryenda-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6707,
+      "count": 6,
+      "name": "Misua Recipes",
+      "slug": "misua-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6241,
+      "count": 16,
+      "name": "Most Recommended Articles",
+      "slug": "most-recommended-articles",
+      "parent": 0
+    },
+    {
+      "id": 90,
+      "count": 8,
+      "name": "Muffin Recipes",
+      "slug": "muffin-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6388,
+      "count": 16,
+      "name": "Mung Bean Recipes",
+      "slug": "mung-bean-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6419,
+      "count": 13,
+      "name": "Mussel Recipes",
+      "slug": "mussel-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6520,
+      "count": 3,
+      "name": "New Year's Eve Dinner",
+      "slug": "new-years-eve-dinner",
+      "parent": 0
+    },
+    {
+      "id": 91,
+      "count": 45,
+      "name": "Noodle and Pasta Recipes",
+      "slug": "noodles-and-pasta",
+      "parent": 24
+    },
+    {
+      "id": 92,
+      "count": 69,
+      "name": "Noodle Recipes",
+      "slug": "noodle-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6664,
+      "count": 5,
+      "name": "Paella Recipes",
+      "slug": "paella-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6228,
+      "count": 3,
+      "name": "Paleo Diet",
+      "slug": "paleo-diet",
+      "parent": 6
+    },
+    {
+      "id": 93,
+      "count": 3,
+      "name": "Pancake Recipes",
+      "slug": "pancake-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6432,
+      "count": 11,
+      "name": "Pancit Recipes",
+      "slug": "pancit-recipes",
+      "parent": 24
+    },
+    {
+      "id": 94,
+      "count": 81,
+      "name": "Pasta Recipes",
+      "slug": "pasta-recipes",
+      "parent": 24
+    },
+    {
+      "id": 95,
+      "count": 0,
+      "name": "Philippine Fruits",
+      "slug": "philippine-fruits",
+      "parent": 22
+    },
+    {
+      "id": 96,
+      "count": 17,
+      "name": "Philippine Street Foods",
+      "slug": "pinoy-street-foods-philippines",
+      "parent": 22
+    },
+    {
+      "id": 22,
+      "count": 23,
+      "name": "Philippines",
+      "slug": "philippines-did-you-know",
+      "parent": 0
+    },
+    {
+      "id": 97,
+      "count": 12,
+      "name": "Pie Recipes",
+      "slug": "pie-recipes-2",
+      "parent": 24
+    },
+    {
+      "id": 98,
+      "count": 5,
+      "name": "Pizza Recipes",
+      "slug": "pizza-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6712,
+      "count": 29,
+      "name": "Pork Adobo Recipes",
+      "slug": "pork-adobo-recipes",
+      "parent": 55
+    },
+    {
+      "id": 99,
+      "count": 38,
+      "name": "Pork Chop Recipes",
+      "slug": "pork-chop-recipes-recipes",
+      "parent": 24
+    },
+    {
+      "id": 100,
+      "count": 361,
+      "name": "Pork Recipes",
+      "slug": "pork-recipes",
+      "parent": 24
+    },
+    {
+      "id": 101,
+      "count": 8,
+      "name": "Porridge and Congee Recipes",
+      "slug": "porridgecongee",
+      "parent": 24
+    },
+    {
+      "id": 102,
+      "count": 105,
+      "name": "Potato Recipes",
+      "slug": "potato-recipes-recipes",
+      "parent": 24
+    },
+    {
+      "id": 54,
+      "count": 19,
+      "name": "Product Review",
+      "slug": "affiliate",
+      "parent": 0
+    },
+    {
+      "id": 23,
+      "count": 10,
+      "name": "Product Reviews",
+      "slug": "product-reviews",
+      "parent": 0
+    },
+    {
+      "id": 103,
+      "count": 59,
+      "name": "Pulutan Recipes",
+      "slug": "pulutan-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6726,
+      "count": 2,
+      "name": "Puto Recipes",
+      "slug": "puto-recipes",
+      "parent": 24
+    },
+    {
+      "id": 24,
+      "count": 1754,
+      "name": "Recipes",
+      "slug": "recipes",
+      "parent": 0
+    },
+    {
+      "id": 25,
+      "count": 4,
+      "name": "Reuben Sandwich",
+      "slug": "reuben-sandwich",
+      "parent": 24
+    },
+    {
+      "id": 26,
+      "count": 27,
+      "name": "Rice Cake Recipes",
+      "slug": "rice-cake-recipes",
+      "parent": 24
+    },
+    {
+      "id": 27,
+      "count": 57,
+      "name": "Rice Recipes",
+      "slug": "rice-recipes",
+      "parent": 24
+    },
+    {
+      "id": 28,
+      "count": 3,
+      "name": "Roast Beef Sandwich Recipes",
+      "slug": "roast-beef-sandwich-recipes",
+      "parent": 24
+    },
+    {
+      "id": 29,
+      "count": 47,
+      "name": "Salad Recipes",
+      "slug": "salads-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6418,
+      "count": 15,
+      "name": "Salmon Recipes",
+      "slug": "salmon-recipes",
+      "parent": 24
+    },
+    {
+      "id": 30,
+      "count": 37,
+      "name": "Sandwich Recipes",
+      "slug": "sandwiches",
+      "parent": 24
+    },
+    {
+      "id": 6706,
+      "count": 10,
+      "name": "Sardines Recipes",
+      "slug": "sardines-recipes",
+      "parent": 24
+    },
+    {
+      "id": 31,
+      "count": 20,
+      "name": "Sauces Recipes",
+      "slug": "sauces-recipes",
+      "parent": 24
+    },
+    {
+      "id": 32,
+      "count": 5,
+      "name": "School Lunch Ideas",
+      "slug": "school-lunch-ideas",
+      "parent": 0
+    },
+    {
+      "id": 33,
+      "count": 120,
+      "name": "Seafood Recipes",
+      "slug": "seafood",
+      "parent": 24
+    },
+    {
+      "id": 34,
+      "count": 43,
+      "name": "Shared Recipes",
+      "slug": "shared-recipes",
+      "parent": 0
+    },
+    {
+      "id": 35,
+      "count": 25,
+      "name": "Shellfish Recipes",
+      "slug": "shellfish-recipes",
+      "parent": 24
+    },
+    {
+      "id": 36,
+      "count": 73,
+      "name": "Shrimp Recipes",
+      "slug": "shrimp-recipes",
+      "parent": 24
+    },
+    {
+      "id": 37,
+      "count": 34,
+      "name": "Side Dish Recipes",
+      "slug": "sidedish-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6443,
+      "count": 13,
+      "name": "Silog Recipes",
+      "slug": "silog-recipes",
+      "parent": 24
+    },
+    {
+      "id": 38,
+      "count": 40,
+      "name": "Sinigang Recipes",
+      "slug": "sinigang-recipes",
+      "parent": 24
+    },
+    {
+      "id": 39,
+      "count": 3,
+      "name": "Smoothie Recipes",
+      "slug": "smoothie-recipes",
+      "parent": 24
+    },
+    {
+      "id": 40,
+      "count": 66,
+      "name": "Snack Recipes",
+      "slug": "snacks-recipes",
+      "parent": 24
+    },
+    {
+      "id": 41,
+      "count": 146,
+      "name": "Soup Recipes",
+      "slug": "soup-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6591,
+      "count": 1,
+      "name": "Sous Vide Recipes",
+      "slug": "sous-vide-recipes",
+      "parent": 24
+    },
+    {
+      "id": 42,
+      "count": 20,
+      "name": "Squid Recipes",
+      "slug": "squid-recipes",
+      "parent": 24
+    },
+    {
+      "id": 43,
+      "count": 22,
+      "name": "Steak Recipes",
+      "slug": "steak-recipes",
+      "parent": 24
+    },
+    {
+      "id": 44,
+      "count": 34,
+      "name": "Stew Recipes",
+      "slug": "stew-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6420,
+      "count": 24,
+      "name": "Stir Fry Recipes",
+      "slug": "stir-fry-recipes",
+      "parent": 24
+    },
+    {
+      "id": 45,
+      "count": 5,
+      "name": "Sushi Recipes",
+      "slug": "sushi-recipes",
+      "parent": 24
+    },
+    {
+      "id": 46,
+      "count": 3,
+      "name": "Sweet Potato Recipes",
+      "slug": "sweet-potato-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6426,
+      "count": 10,
+      "name": "Teriyaki Recipes",
+      "slug": "teriyaki-recipes",
+      "parent": 24
+    },
+    {
+      "id": 6719,
+      "count": 19,
+      "name": "Tinola Recipes",
+      "slug": "tinola-recipes",
+      "parent": 24
+    },
+    {
+      "id": 47,
+      "count": 34,
+      "name": "Tofu Recipes",
+      "slug": "tofu-recipes-recipes",
+      "parent": 24
+    },
+    {
+      "id": 48,
+      "count": 0,
+      "name": "Top Recipes",
+      "slug": "top-recipes",
+      "parent": 0
+    },
+    {
+      "id": 6422,
+      "count": 15,
+      "name": "Tuna Recipes",
+      "slug": "tuna-recipes",
+      "parent": 24
+    },
+    {
+      "id": 49,
+      "count": 10,
+      "name": "Turkey Recipes",
+      "slug": "turkey-recipes-2",
+      "parent": 24
+    },
+    {
+      "id": 1,
+      "count": 8,
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "parent": 0
+    },
+    {
+      "id": 50,
+      "count": 29,
+      "name": "Useful Tips",
+      "slug": "useful-tips",
+      "parent": 2
+    },
+    {
+      "id": 51,
+      "count": 244,
+      "name": "Vegetable Recipes",
+      "slug": "vegetable-recipes",
+      "parent": 24
+    },
+    {
+      "id": 52,
+      "count": 4,
+      "name": "Weight Loss",
+      "slug": "weight-loss-did-you-know",
+      "parent": 0
+    },
+    {
+      "id": 53,
+      "count": 34,
+      "name": "What's Cooking?",
+      "slug": "whats-cookin",
+      "parent": 0
+    }
+  ]
+}
