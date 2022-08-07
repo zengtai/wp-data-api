@@ -1,26 +1,210 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.content {
+  @apply text-sm
+}
+.content h2,
+.content h3,
+.content p {
+@apply my-4
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.content figure {
+  @apply my-4
 }
 
-* {
-  box-sizing: border-box;
+.content a {
+  @apply underline
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
-  }
+/* .wprm-comment-rating svg { width: 18px !important; height: 18px !important; } img.wprm-comment-rating { width: 90px !important; height: 18px !important; } .wprm-comment-rating svg path { fill: #343434; } .wprm-comment-rating svg polygon { stroke: #343434; } .wprm-comment-ratings-container svg .wprm-star-full { fill: #343434; } .wprm-comment-ratings-container svg .wprm-star-empty { stroke: #343434; }
+.wprm-recipe-template-snippet-basic-buttons {
+  font-family: inherit; 
+  font-size: 0.9em; 
+  text-align: center; 
+  margin-top: 0px; 
+  margin-bottom: 10px; 
 }
+.wprm-recipe-template-snippet-basic-buttons a  {
+  margin: 5px; 
+  margin: 5px; 
+}
+
+.wprm-recipe-template-snippet-basic-buttons a:first-child {
+  margin-left: 0;
+}
+.wprm-recipe-template-snippet-basic-buttons a:last-child {
+  margin-right: 0;
+}.wprm-recipe-template-chic {
+  margin: 20px auto;
+  background-color: #fafafa; 
+ 
+  font-size: 0.9em; 
+  line-height: 1.5em; 
+  color: #333333; 
+  max-width: 650px; 
+}
+.wprm-recipe-template-chic a {
+  color: #3498db; 
+}
+.wprm-recipe-template-chic p, .wprm-recipe-template-chic li {
+ 
+  font-size: 1em !important;
+  line-height: 1.5em !important; 
+}
+.wprm-recipe-template-chic li {
+  margin: 0 0 0 32px !important;
+  padding: 0 !important;
+}
+.rtl .wprm-recipe-template-chic li {
+  margin: 0 32px 0 0 !important;
+}
+.wprm-recipe-template-chic ol, .wprm-recipe-template-chic ul {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.wprm-recipe-template-chic br {
+  display: none;
+}
+.wprm-recipe-template-chic .wprm-recipe-name,
+.wprm-recipe-template-chic .wprm-recipe-header {
+
+  color: #000000; 
+  line-height: 1.3em; 
+}
+.wprm-recipe-template-chic h1,
+.wprm-recipe-template-chic h2,
+.wprm-recipe-template-chic h3,
+.wprm-recipe-template-chic h4,
+.wprm-recipe-template-chic h5,
+.wprm-recipe-template-chic h6 {
+  color: #212121; 
+  line-height: 1.3em; 
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.wprm-recipe-template-chic .wprm-recipe-header {
+  margin-top: 1.2em !important;
+}
+.wprm-recipe-template-chic h1 {
+  font-size: 2em; 
+}
+.wprm-recipe-template-chic h2 {
+  font-size: 1.8em; 
+}
+.wprm-recipe-template-chic h3 {
+  font-size: 1.2em; 
+}
+.wprm-recipe-template-chic h4 {
+  font-size: 1em; 
+}
+.wprm-recipe-template-chic h5 {
+  font-size: 1em; 
+}
+.wprm-recipe-template-chic h6 {
+  font-size: 1em; 
+}.wprm-recipe-template-chic {
+  font-size: 1em; 
+border-style: solid; 
+border-width: 1px; 
+border-color: #E0E0E0; 
+  padding: 10px;
+  background-color: #ffffff; 
+  max-width: 950px; 
+}
+.wprm-recipe-template-chic a {
+  color: #5A822B; 
+}
+.wprm-recipe-template-chic .wprm-recipe-name {
+  line-height: 1.3em;
+  font-weight: bold;
+}
+.wprm-recipe-template-chic .wprm-template-chic-buttons {
+clear: both;
+  font-size: 0.9em;
+  text-align: center;
+}
+.wprm-recipe-template-chic .wprm-template-chic-buttons .wprm-recipe-icon {
+  margin-right: 5px;
+}
+.wprm-recipe-template-chic .wprm-recipe-header {
+margin-bottom: 0.5em !important;
+}
+.wprm-recipe-template-chic .wprm-nutrition-label-container {
+font-size: 0.9em;
+}
+.wprm-recipe-template-chic .wprm-call-to-action {
+border-radius: 3px;
+}.wprm-recipe-template-compact-howto {
+  margin: 20px auto;
+  background-color: #fafafa; 
+  font-size: 0.9em; 
+  line-height: 1.5em; 
+  color: #333333; 
+  max-width: 650px; 
+}
+.wprm-recipe-template-compact-howto a {
+  color: #3498db; 
+}
+.wprm-recipe-template-compact-howto p, .wprm-recipe-template-compact-howto li {
+  font-size: 1em !important;
+  line-height: 1.5em !important; 
+}
+.wprm-recipe-template-compact-howto li {
+  margin: 0 0 0 32px !important;
+  padding: 0 !important;
+}
+.rtl .wprm-recipe-template-compact-howto li {
+  margin: 0 32px 0 0 !important;
+}
+.wprm-recipe-template-compact-howto ol, .wprm-recipe-template-compact-howto ul {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.wprm-recipe-template-compact-howto br {
+  display: none;
+}
+.wprm-recipe-template-compact-howto .wprm-recipe-name,
+.wprm-recipe-template-compact-howto .wprm-recipe-header {
+  color: #000000; 
+  line-height: 1.3em; 
+}
+.wprm-recipe-template-compact-howto h1,
+.wprm-recipe-template-compact-howto h2,
+.wprm-recipe-template-compact-howto h3,
+.wprm-recipe-template-compact-howto h4,
+.wprm-recipe-template-compact-howto h5,
+.wprm-recipe-template-compact-howto h6 { 
+  color: #212121;
+  line-height: 1.3em; 
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.wprm-recipe-template-compact-howto .wprm-recipe-header {
+  margin-top: 1.2em !important;
+}
+.wprm-recipe-template-compact-howto h1 {
+  font-size: 2em; 
+}
+.wprm-recipe-template-compact-howto h2 {
+  font-size: 1.8em; 
+}
+.wprm-recipe-template-compact-howto h3 {
+  font-size: 1.2em; 
+}
+.wprm-recipe-template-compact-howto h4 {
+  font-size: 1em; 
+}
+.wprm-recipe-template-compact-howto h5 {
+  font-size: 1em; 
+}
+.wprm-recipe-template-compact-howto h6 {
+  font-size: 1em; 
+}.wprm-recipe-template-compact-howto {
+border-style: solid; 
+border-width: 1px; 
+border-color: #777777; 
+border-radius: 0px; 
+padding: 10px;} */
