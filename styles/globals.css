@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.read-more {
+  @apply rounded-full bg-orange-600 p-4 text-white/80 xl:hover:text-white;
+}
+
 .content {
   @apply text-sm
 }
@@ -14,7 +19,10 @@ article h1,
 }
 .content h2,
 .content h3 {
-  @apply font-bold text-lg mx-4;
+  @apply font-bold mx-4;
+}
+.content h2 {
+  @apply text-lg;
 }
 .content h4 {
   @apply font-bold mx-4;
@@ -26,23 +34,16 @@ article h1,
 .content a {
   @apply underline
 }
-
-/* .content .body-image {
-  @apply max-w-lg
-} */
-
+/* Recipe detail */
 .wprm-recipe-summary {
   @apply border p-4 my-2 mx-4
 }
-
 .wprm-recipe-meta-container,.wprm-recipe-block-container  {
   @apply flex gap-x-4 flex-wrap items-center;
 }
-
-/* .wprm-recipe-meta-container,.wprm-recipe-block-container {
-  @apply
-} */
-
+.wprm-recipe-image img{
+  @apply w-full
+}
 .wprm-recipe-block-container {
   @apply my-2 gap-x-1 gap-y-2;
 }
@@ -80,4 +81,55 @@ article h1,
 }
 .wprm-recipe-ingredient-unit,.wprm-nutrition-label-text-nutrition-unit {
   @apply text-xs p-1 mx-1 bg-slate-200 rounded
+}
+
+
+/* Banner */
+.ad-container {
+  @apply relative w-full z-0 mx-auto flex flex-col justify-start overflow-hidden after:absolute after:bottom-0.5 after:left-1/2 after:-z-10 after:-translate-x-1/2 after:text-xs after:text-white/20 after:content-['ADVERTISEMENT']
+}
+.ad-container h6 {
+  @apply text-xs text-center bg-black/10 opacity-50;
+}
+@media (min-width: 300px) {
+  .AdContainer {
+    width: 300px;
+  }
+  .banner {
+    height: 100px;
+  }
+  .banner_sm {
+    height: 50px;
+  }
+  .rectangle {
+    height: 200px;
+  }
+}
+@media (min-width: 468px) {
+  .AdContainer {
+    width: 468px;
+    height: 60px;
+  }
+}
+@media (min-width: 728px) {
+  .AdContainer {
+    width: 728px;
+    height: 90px;
+  }
+}
+@media (min-width: 970px) {
+  .AdContainer {
+    width: 970px;
+    height: 90px;
+  }
+  .banner {
+    height: 90px;
+  }
+  .banner_lg {
+    height: 250px;
+  }
+}
+
+.adsbygoogle {
+  @apply w-full flex justify-center bg-[#00000008];
 }
